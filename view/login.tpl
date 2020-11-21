@@ -8,8 +8,6 @@
         <title>FU book club website</title>
     </head>
     <body>
-        <div class="slide">
-            <img src="img/background_slide.jpg" alt="image">
-        </div>
+        <div class="slide container-fluid"></div>
     </body>
 </html>
